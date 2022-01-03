@@ -26,4 +26,4 @@ Olá Eu sou o Lucas Bilharinho
   <a href = "mailto:l.bilharinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-bilharinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/rafaballerini/LBilharinho/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LBilharinho/LBilharinho/blob/output/github-contribution-grid-snake.svg)
