@@ -1,7 +1,7 @@
 Olá Eu sou o Lucas Bilharinho
 
-- 🔭 Atualmente trabalho com Java | SpringBoot
-- 🌱 Estou estudando Microserviços
+- 🔭 Atualmente trabalho com Java | SpringBoot | Spring Batch
+- 🌱 Estou estudando Microserviços | Spring Cloud
 - 😄 Pronouns: Ele | Dele
 
 
